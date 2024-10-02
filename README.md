@@ -24,7 +24,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-[Proje](./images/proje.jpg)
+![Proje](./images/proje.jpg)
 
 
 
